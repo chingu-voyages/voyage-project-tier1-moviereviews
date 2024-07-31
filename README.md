@@ -75,7 +75,7 @@ implement to enhance this app, if time permits.
     - [ ] Analyze the movies dataset and display a summary of the most popular movies.
 
 -   Basic Functionality
-    - [ ] Fetch movie data from the provided JSON files in this projects `./assets` directory.
+    - [ ] Fetch movie data from the provided JSON files in this [Google Drive directory](https://drive.google.com/drive/folders/17cGnwfhFg3HA2e7wJLmyqGh0ue1JANWY?usp=sharing).
     - [ ] Analyze the data to identify the most popular movies by these categories:
       - Most popular 100 movies of all time
       - Most popular 100 movies by critic score
